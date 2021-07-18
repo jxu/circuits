@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="in_3"/>
+    <variable name="in_2"/>
+    <variable name="in_1"/>
+    <variable name="in_0"/>
+  </variables>
+  <results>
+    <result>
+      <name>out_3</name>
+      <values class="BoolTable">
+        <table>AgICAgIBAQEBAQICAgICAg==</table>
+      </values>
+    </result>
+    <result>
+      <name>out_2</name>
+      <values class="BoolTable">
+        <table>AgICAgIAAAAAAQICAgICAg==</table>
+      </values>
+    </result>
+    <result>
+      <name>out_1</name>
+      <values class="BoolTable">
+        <table>AgICAgIAAAEBAAICAgICAg==</table>
+      </values>
+    </result>
+    <result>
+      <name>out_0</name>
+      <values class="BoolTable">
+        <table>AgICAgIAAQABAAICAgICAg==</table>
+      </values>
+    </result>
+  </results>
+</truthTable>
